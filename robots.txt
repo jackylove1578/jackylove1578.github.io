@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: *?fbclid=*
+Disallow: /?s=*
+Disallow: /login/
+Disallow: *?fb_comment_id=*
+Disallow: *?sort=new
+Disallow: *?sort=popular
+
+Allow: /*.js$
+Allow: /*.css$
+
+Sitemap:https://jackylove1578.github.io/sitemap_index.xml
